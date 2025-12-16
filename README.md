@@ -139,6 +139,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 - [2025/10] Memory$^3$: Language Modeling with Explicit Memory. [[paper](https://doi.org/10.48550/arXiv.2407.01178)]
 - [2025/08] Towards General Continuous Memory for Vision-Language Models. [[paper](https://arxiv.org/abs/2505.17670)]
 - [2025/03] M+: Extending MemoryLLM with Scalable Long-Term Memory. [[paper](https://doi.org/10.48550/arXiv.2502.00592)]
+- [2025/02] R3Mem: Bridging Memory Retention and Retrieval via Reversible Compression [[paper](https://arxiv.org/abs/2502.15957v1)]
 - [2024/07] Efficient Episodic Memory Utilization of Cooperative Multi-Agent Reinforcement Learning. [[paper](https://openreview.net/forum?id=LjivA1SLZ6)]
 
 ### Experiential Memory
