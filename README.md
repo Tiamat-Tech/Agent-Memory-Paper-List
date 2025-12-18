@@ -47,6 +47,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 
 #### Token-level
 
+- [2025/12] Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects. [[paper](https://arxiv.org/abs/2512.12818)
 - [2025/11] O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents. [[paper](https://arxiv.org/abs/2511.13593)]
 - [2025/11] In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents. [[paper](https://aclanthology.org/2025.acl-long.413/)]
 - [2025/11] Memoro: Using Large Language Models to Realize a Concise Interface for Real-Time Memory Augmentation. [[paper](https://doi.org/10.1145/3613904.3642450)]
@@ -117,6 +118,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 - [2023/04] HuaTuo: Tuning LLaMA Model with Chinese Medical Knowledge. [[paper](https://arxiv.org/abs/2304.06975)]
 - [2023/04] SCM: Enhancing Large Language Model with Self-Controlled Memory Framework. [[paper](https://arxiv.org/abs/2304.13343)]
 
+
 #### Parametric
 
 - [2025/10] Pretraining with hierarchical memories: separating long-tail and common knowledge. [[paper](https://arxiv.org/abs/2510.02375)]
@@ -146,6 +148,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 
 #### Token-level
 
+- [2025/12] Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects. [[paper](https://arxiv.org/abs/2512.12818)
 - [2025/11] Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models. [[paper](https://doi.org/10.48550/arXiv.2510.04618)]
 - [2025/11] FLEX: Continuous Agent Evolution via Forward Learning from Experience. [[paper](https://arxiv.org/abs/2511.06449)]
 - [2025/11] Scaling Agent Learning via Experience Synthesis. [[paper](https://arxiv.org/abs/2511.03773)]
