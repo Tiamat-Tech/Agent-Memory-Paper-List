@@ -15,7 +15,7 @@
 </div>
 
 ## 📢 News
-
+- [2026/01/13] 📄 We have updated our survey to incorporate several recent works, and we sincerely thank the community for their valuable contributions and suggestions. See [Memory in the Age of AI Agents: A Survey](https://arxiv.org/abs/2512.13564) for the paper!
 - [2025/12/16] 🎉 Our paper is featured on [Huggingface Daily Paper #1](https://huggingface.co/papers/date/2025-12-16)!
 - [2025/12/16] 📚 We create this repository to maintain a paper list on Agent Memory. More papers are coming soon!
 - [2025/12/16] 📄 Our survey is released! See [Memory in the Age of AI Agents: A Survey](https://arxiv.org/abs/2512.13564) for the paper!
