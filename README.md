@@ -288,3 +288,9 @@ If you find this repository helpful, a citation to our paper would be greatly ap
   journal={arXiv preprint arXiv:2512.13564},
   year={2025}
 }
+```
+
+## ⭐️ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Shichun-Liu/Agent-Memory-Paper-List&type=date&legend=top-left)](https://www.star-history.com/#Shichun-Liu/Agent-Memory-Paper-List&type=date&legend=top-left)
+
