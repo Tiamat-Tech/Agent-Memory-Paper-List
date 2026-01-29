@@ -17,6 +17,7 @@
 </div>
 
 ## 📢 News
+- [2026/01/29] 🎉 Our repository has reached **1k stars**! Thank you all for your support and interest in Agent Memory research!
 - [2026/01/13] 📄 We have updated our survey to incorporate several recent works, and we sincerely thank the community for their valuable contributions and suggestions. See [Memory in the Age of AI Agents: A Survey](https://arxiv.org/abs/2512.13564) for the paper!
 - [2025/12/16] 🎉 Our paper is featured on [Huggingface Daily Paper #1](https://huggingface.co/papers/date/2025-12-16)!
 - [2025/12/16] 📚 We create this repository to maintain a paper list on Agent Memory. More papers are coming soon!
@@ -282,11 +283,19 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 If you find this repository helpful, a citation to our paper would be greatly appreciated:
 
 ```bibtex
-@article{hu2025memory,
-  title={Memory in the Age of AI Agents},
-  author={Hu, Yuyang and Liu, Shichun and Yue, Yanwei and Zhang, Guibin and Liu, Boyang and Zhu, Fangyi and Lin, Jiahang and Guo, Honglin and Dou, Shihan and Xi, Zhiheng and Jin, Senjie and Tan, Jiejun and Yin, Yanbin and Liu, Jiongnan and Zhang, Zeyu and Sun, Zhongxiang and Zhu, Yutao and Sun, Hao and Peng, Boci and Cheng, Zhenrong and Fan, Xuanbo and Guo, Jiaxin and Yu, Xinlei and Zhou, Zhenhong and Hu, Zewen and Huo, Jiahao and Wang, Junhao and Niu, Yuwei and Wang, Yu and Yin, Zhenfei and Hu, Xiaobin and Liao, Yue and Li, Qiankun and Wang, Kun and Zhou, Wangchunshu and Liu, Yixin and Cheng, Dawei and Zhang, Qi and Gui, Tao and Pan, Shirui and Zhang, Yan and Torr, Philip and Dou, Zhicheng and Wen, Ji-Rong and Huang, Xuanjing and Jiang, Yu-Gang and Yan, Shuicheng},
-  journal={arXiv preprint arXiv:2512.13564},
-  year={2025}
+@article{DBLP:journals/corr/abs-2512-13564,
+  author       = {Yuyang Hu and Shichun Liu and Yanwei Yue and Guibin Zhang and Boyang Liu and Fangyi Zhu and Jiahang Lin and Honglin Guo and Shihan Dou and Zhiheng Xi and Senjie Jin and Jiejun Tan and Yanbin Yin and Jiongnan Liu and Zeyu Zhang and Zhongxiang Sun and Yutao Zhu and Hao Sun and Boci Peng and Zhenrong Cheng and Xuanbo Fan and Jiaxin Guo and Xinlei Yu and Zhenhong Zhou and Zewen Hu and Jiahao Huo and Junhao Wang and Yuwei Niu and Yu Wang and Zhenfei Yin and Xiaobin Hu and Yue Liao and Qiankun Li and Kun Wang and Wangchunshu Zhou and Yixin Liu and Dawei Cheng and Qi Zhang and Tao Gui and Shirui Pan and Yan Zhang and Philip Torr and Zhicheng Dou and Ji{-}Rong Wen and Xuanjing Huang and Yu{-}Gang Jiang and Shuicheng Yan},
+  title        = {Memory in the Age of {AI} Agents},
+  journal      = {CoRR},
+  volume       = {abs/2512.13564},
+  year         = {2025},
+  url          = {https://doi.org/10.48550/arXiv.2512.13564},
+  doi          = {10.48550/ARXIV.2512.13564},
+  eprinttype    = {arXiv},
+  eprint       = {2512.13564},
+  timestamp    = {Mon, 26 Jan 2026 16:10:18 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2512-13564.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
