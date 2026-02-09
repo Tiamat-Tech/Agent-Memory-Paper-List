@@ -64,6 +64,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 - [2025/12] WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning. [[paper](https://arxiv.org/abs/2512.02425)]
 - [2025/12] Memoria: A Scalable Agentic Memory Framework for Personalized Conversational AI. [[paper](https://arxiv.org/abs/2512.12686)]
 - [2025/12] Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects. [[paper](https://arxiv.org/abs/2512.12818)]
+- [2025/11] A Simple Yet Strong Baseline for Long-Term Conversational Memory of LLM Agents. [[paper](https://arxiv.org/abs/2511.17208)]
 - [2025/11] General Agentic Memory Via Deep Research. [[paper](https://arxiv.org/abs/2511.18423)]
 - [2025/11] O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents. [[paper](https://arxiv.org/abs/2511.13593)]
 - [2025/11] RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory. [[paper](https://doi.org/10.48550/arXiv.2508.04903)]
